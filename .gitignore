@@ -1,0 +1,8 @@
+input/*
+!input/
+working/train/*
+working/val/*
+!working/train
+!working/val
+!working/
+face_dataset.zip
